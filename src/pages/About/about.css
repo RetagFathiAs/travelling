@@ -1,0 +1,31 @@
+.about {
+  padding: 50px 0px;
+}
+
+.about .about-image .about-image-content {
+  background: #fe4e37;
+  width: 350px;
+  line-height: 42px;
+}
+
+.about .about-content h2 {
+  font-size: 26px;
+  padding-bottom: 15px;
+}
+
+.about  .card {
+  
+}
+
+
+@media screen and (max-width: 575px) {
+  .about .about-image .about-image-content {
+    width: 261px;
+    line-height: 34px;
+
+  }
+}
+
+
+
+
